@@ -1,0 +1,20 @@
+R 800 600
+NO ./textures/bukJJOCK.xpm
+SO ./textures/newdoggo.xpm
+WE ./textures/jindo.xpm
+EA ./textures/gyeonbin.xpm
+S ./textures/sprite.xpm
+FT ./textures/ground.xpm
+CT ./textures/sky1.xpm
+F 167,167,167
+C 54,54,54
+
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+1 1 0 1 2 1 0 1 1 1 0 1 1 1 0 1 1 1 0 1
+1 0 0 2 1 0 0 0 1 0 0 0 1 0 0 0 1 0 0 1
+1 1 0 1 1 1 0 1 1 1 0 1 1 1 0 1 1 1 0 1
+1 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 0 1
+1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 2 1
+1 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 0 0 1
+1 0 1 0 1 0 0 0 1 0 0 0 0 0 0 0 1 2 W 1
+1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
