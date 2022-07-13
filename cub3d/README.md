@@ -1,4 +1,7 @@
 # cub3d
+
+![Uploading ezgif.com-gif-maker (1).gif…]()
+
 This project is inspired by the world-famous eponymous 90’s game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way.
 
 ## Rating
@@ -16,16 +19,6 @@ This project is inspired by the world-famous eponymous 90’s game, which was th
 If you are running Linux the controls are based on a AZERTY keyboard and on MAC a QWERTY keyboard.
 
 <kbd>Z</kbd> <kbd>Q</kbd> <kbd>S</kbd> <kbd>D</kbd> / <kbd>↑</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> : Move and Strafe
-
-### Bonus keybinds:
-| Key | Action |
-|--|--|
-| <kbd>1</kbd> | increase distant shading |
-| <kbd>2</kbd> | decrease distant shading |
-| <kbd>3</kbd> | Buffer overlay |
-| <kbd>4</kbd> | Toggle Interlacing |
-| <kbd>5</kbd> | Print map |
-| <kbd>Shift</kbd> | Sprint |
 
 ### Map editor controls:
 | Key | Action |
