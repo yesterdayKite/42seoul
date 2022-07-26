@@ -1,7 +1,6 @@
 # cub3d
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/45073412/178801642-1fe1c50e-4b00-428e-bc98-5a8a16b3c5c6.gif)
-
+![](https://velog.velcdn.com/images/yesterdaykite/post/6ef46091-6cee-42cd-a4f3-4e3159a74c18/image.gif)
 
 This project is inspired by the world-famous eponymous 90’s game, which was the first FPS ever. It will enable you to explore ray-casting. Your goal will be to make a dynamic view inside a maze, in which you’ll have to find your way.
 
